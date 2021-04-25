@@ -21,4 +21,4 @@ UnrealScript is a native scripting language for the infamous Unreal engine. It c
 10. Lua
 Lua has a simple language structure and syntax and is becoming one of the most popular languages for the gaming industry. It is a multi-platform scripting language a vast number of modern game engines utilise Lua as their primary game design programming language.
 
-អរគុណច្រើនហើយ ដែលបានកែកូដឲ្យខ្ញុំបាទ 
+អរគុណច្រើនហើយ ដែលបានកែកូដឲ្យខ្ញុំបាទ ខ្ញុំពិតជាសប្បាយរីករាយក្រែពេកណា
