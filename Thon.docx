@@ -1,0 +1,22 @@
+Game development is the job of very experienced and skilful programmers. It can cost hundreds of millions of dollars. It is a very creative work which also demands technical proficiency. They need programming languages with specific needs to work with.
+Here is a list of top 10 programming languages for game development.
+1. C#
+C# is popularly used in many game engines today and is one of the most popular languages required for game development. It has an XNA framework, which is a set of tools and runtime environment by Microsoft, which makes it particularly suitable for games on the Xbox or Windows. It is a good language if one wishes to use monogame to distribute the game on virtually any platform.
+2. C++
+C++ is an object-oriented language known to be one of the most difficult languages to learn but it is an important language for game developers. It allows more direct control over the hardware and graphical processes, important for the industry and is the most popular language for some of the most popular game engines. It also gives a lot of control over parameters and memory management, adding to the performance and user experience of the game.
+3. Java
+Java uses the same OOP principle utilised by C++ but offers a broader range of systems to play for. Java codes typically run on the Java Virtual Machine (JVM) and translate into generic bytecodes, executable on any system. So, Java is one of those few game programming languages that gives developers the ability to develop games for any given system. It is one of the best programming languages for games.
+4. JavaScript
+JavaScript is one of the most popular programming languages for games, more so for the interactive ones online. With JavaScript, it is easier to integrate the codes with conventional web technologies like HTML and CSS, leading to an increasing number of cross-platform mobile games.
+5. HTML 5
+HTML5 has become one of the most common game programming languages for the web. A vast majority of mobile games that you play today utilises this markup language. It is easy with creating a sophisticated web-based game, with a collaboration with JavaScript. The language is easy to learn and does not necessarily require complex programming knowledge of algorithms to learn, and so is becoming a popular option for game developers.
+6. SQL
+SQL is used for back-end database work for the player to access their account and do other things on the server. There are new languages, libraries, frameworks, especially with AR, VR, graphics, physics, and gameplay.
+7. Python
+Another language offering an OOP approach, Python is one of the easiest to use and versatile programming language, used by game developers. It has a Pygame framework and lets programmers prototype their games at a fast pace.
+8. Rust
+Rust has been touted as one of the successors of C. It was primarily as a systems programming language by the Mozilla Foundation. It has an Object Oriented to Data-Oriented approach which helps in the game development.
+9. UnrealScript
+UnrealScript is a native scripting language for the infamous Unreal engine. It combines complex features like OOP and multiple inheritances and fueled games. The language supports all major gaming platforms like Microsoft Windows, MacOS, Linux, SteamOS, Android, and PlayStation VR.
+10. Lua
+Lua has a simple language structure and syntax and is becoming one of the most popular languages for the gaming industry. It is a multi-platform scripting language a vast number of modern game engines utilise Lua as their primary game design programming language.
