@@ -1,12 +1,12 @@
 ﻿#include <stdio.h>
-void main()
+int main()
 {
     int i, j, rows, space;
     for (i = 1; i <= 26; i++)
     {
         for (space = 1; space <= 26 - i; space++)
         {
-            printf(" ");
+            printf("");
         }
         for (j = 1; j <= i; j++)
         {
