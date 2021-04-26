@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0061)https://rproxy.minebea.co.jp/eLearning_Sales/page/myLogin.jsp -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="Pragma" content="no-cache">
+	
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<title>eLearning Sales Ver0.01</title>
+	<link rel="stylesheet" type="text/css" href="./eLearning Sales Ver0.01_files/global.css">
+	<link rel="stylesheet" type="text/css" href="./eLearning Sales Ver0.01_files/body_global.css">
+	<link rel="stylesheet" type="text/css" href="./eLearning Sales Ver0.01_files/login.css">
+		<!-- スマホ用 -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no">
+
+<style type="text/css">
+
+#container {
+	margin: 0px auto;
+	min-height: 400px;
+}
+
+
+.titleArea {
+	text-align: center;
+	margin: 40px 70px 40px 0;
+
+}
+
+.titleArea h1 {
+	font-family: Century Gothic;
+	color: #3e3e3e;
+	font-size: 370%;
+	border: none;
+}
+
+.titleArea h1.title::before {
+    content: "\f009";
+    font-family: FontAwesome;
+    font-size: 1em;
+    position: static;
+    color: #004ea8;
+    top: 0px;
+    left: 0px;
+    padding-right: 10px;
+}
+</style>
+<title>eLearning Sales</title></head>
+ 
+
+<!--
+
+ シングルサインオン用サンプル
+ Copyright (c) 2012 Canon Software Inc. All rights reserved.
+ 作成日  : 2012/01/01
+
+-->
+
+
+
+
+
+
+
+<body onload="document.myLogin.user.focus();" style="-webkit-text-size-adjust: 200%;">
+
+<!-- HEADER { -->
+<link href="./eLearning Sales Ver0.01_files/customHF.css" rel="stylesheet" type="text/css">
+
+<div id="page_header"></div>
+
+<!-- } HEADER -->
+
+
+
+
+
+
+<div class="titleArea">
+	<h1 class="title">eLearning Sales</h1>
+</div>
+
+<div class="box clear-float">
+	<!-- mainArea -->
+	<div class="form">
+		<form name="myLogin" method="POST" target="_self" action="https://rproxy.minebea.co.jp/eLearning_Sales/page/myLogin.jsp">
+			<input type="hidden" name="action" value="dologin">
+
+			<div class="app_title">eLearning Sales</div>
+			<div class="row">
+				<label for="IDToken1">UserID</label>
+	            <input class="textbox" type="text" name="user" id="IDToken1" value="" maxlength="30">
+			</div>
+			
+			<div class="row">
+				<label for="IDToken2">Password</label>
+	            <input class="textbox" type="password" name="pass" id="IDToken2" value="" maxlength="30">
+			</div>
+	
+ 			<input type="hidden" name="i" value="null">
+	 		
+	 		<div class="row">
+	 			<input type="submit" value="LOGIN" class="button primary">
+			</div>
+		</form>
+		
+		<label>Notice</label>
+		<div id="notice">
+			
+		</div>
+	</div>
+	<!-- //mainArea -->
+</div>
+
+<!-- footerArea -->
+<div id="footer">
+	<!--
+// This file is custom HEADER/FOOTER page
+-->
+
+
+
+</div>
+<!-- //footerArea -->
+
+</body></html>
