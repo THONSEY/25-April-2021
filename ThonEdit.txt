@@ -1,4 +1,4 @@
-Game development is the job of very experienced and skilful programmers. It can cost hundreds of millions of dollars. It is a very creative work which also demands technical proficiency. They need programming languages with specific needs to work with.
+﻿Game development is the job of very experienced and skilful programmers. It can cost hundreds of millions of dollars. It is a very creative work which also demands technical proficiency. They need programming languages with specific needs to work with.
 Here is a list of top 10 programming languages for game development.
 1. C#
 C# is popularly used in many game engines today and is one of the most popular languages required for game development. It has an XNA framework, which is a set of tools and runtime environment by Microsoft, which makes it particularly suitable for games on the Xbox or Windows. It is a good language if one wishes to use monogame to distribute the game on virtually any platform.
@@ -20,3 +20,5 @@ Rust has been touted as one of the successors of C. It was primarily as a system
 UnrealScript is a native scripting language for the infamous Unreal engine. It combines complex features like OOP and multiple inheritances and fueled games. The language supports all major gaming platforms like Microsoft Windows, MacOS, Linux, SteamOS, Android, and PlayStation VR.
 10. Lua
 Lua has a simple language structure and syntax and is becoming one of the most popular languages for the gaming industry. It is a multi-platform scripting language a vast number of modern game engines utilise Lua as their primary game design programming language.
+
+អរគុណច្រើនហើយ ដែលបានកែកូដឲ្យខ្ញុំបាទ ខ្ញុំពិតជាសប្បាយរីករាយក្រែពេកណា
